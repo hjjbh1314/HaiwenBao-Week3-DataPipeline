@@ -1,0 +1,27 @@
+==========================================
+         DATA QUALITY REPORT
+==========================================
+
+1. RECORDS PROCESSED
+   Total records processed:  27
+   Valid:                    26
+   Invalid:                  1
+
+2. COMPLETENESS PER FIELD (%)
+   (Percentage of records with non-empty value)
+
+   url           100.0%
+   title         100.0%
+   content       100.0%
+   published     100.0%
+
+3. COMMON VALIDATION FAILURES
+   (Reason and count across invalid records)
+
+   [  1]  content length 114 below minimum 120
+
+4. ADDITIONAL METRICS
+   Date range (published):   2026-01-24 to 2026-02-03
+   Avg content length:      4830 chars
+
+==========================================

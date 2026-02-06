@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-02-03T10:00:00Z",
+  "articles": [
+    {
+      "url": "https://example.com/valid-article",
+      "title": "  Valid Article with   Extra   Spaces  ",
+      "content": " <p>This is a <strong>valid</strong> article&nbsp;with HTML tags and \"smart quotes\".</p> ",
+      "published": "Tue, 03 Feb 2026 08:05:15 +0000"
+    },
+    {
+      "url": "https://example.com/missing-title",
+      "content": "This article has no title field but has reasonable content length.",
+      "published": "2026-02-01T12:00:00-05:00"
+    },
+    {
+      "url": "not-a-valid-url",
+      "title": "Invalid URL Article",
+      "content": "Too short",
+      "published": "Mon, 02 Feb 2026 23:05:29 +0000"
+    },
+    {
+      "url": "https://example.com/empty-content",
+      "title": "Empty Content",
+      "content": "   ",
+      "published": "invalid-date-string"
+    },
+    {
+      "url": "https://example.com/valid-article",
+      "title": "Valid Article with Extra Spaces",
+      "content": "Duplicate of the first article to test deduplication.",
+      "published": "Tue, 03 Feb 2026 08:05:15 +0000"
+    },
+    "this is not even an object"
+  ]
+}

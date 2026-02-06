@@ -1,0 +1,36 @@
+==========================================
+         DATA QUALITY REPORT
+==========================================
+
+1. RECORDS PROCESSED
+   Total records processed:  6
+   Valid:                    0
+   Invalid:                  6
+
+2. COMPLETENESS PER FIELD (%)
+   (Percentage of records with non-empty value)
+
+   url            83.3%
+   title          66.7%
+   content        66.7%
+   published      83.3%
+
+3. COMMON VALIDATION FAILURES
+   (Reason and count across invalid records)
+
+   [  1]  content length 87 below minimum 120
+   [  1]  missing required field: 'title'
+   [  1]  content length 66 below minimum 120
+   [  1]  url must use scheme http or https, got: (none)
+   [  1]  url has no host (netloc)
+   [  1]  content length 9 below minimum 120
+   [  1]  required field 'content' is empty
+   [  1]  content length 0 below minimum 120
+   [  1]  content length 53 below minimum 120
+   [  1]  record is not a valid object (expected dict)
+
+4. ADDITIONAL METRICS
+   Date range (published):   5 records with dates
+   Avg content length:      43 chars
+
+==========================================

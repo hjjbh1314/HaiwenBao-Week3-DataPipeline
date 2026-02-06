@@ -1,0 +1,181 @@
+{
+  "total": 27,
+  "valid_count": 26,
+  "invalid_count": 1,
+  "results": [
+    {
+      "index": 0,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/trump-nationalize-elections.html"
+    },
+    {
+      "index": 1,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/trump-harvard-payment.html"
+    },
+    {
+      "index": 2,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/trump-fbi-phone-call-georgia-gabb"
+    },
+    {
+      "index": 3,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/pirro-dc-guns.html"
+    },
+    {
+      "index": 4,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/bill-hillary-clinton-epstein-come"
+    },
+    {
+      "index": 5,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/03/world/europe/ukraine-missiles-attack.html"
+    },
+    {
+      "index": 6,
+      "valid": false,
+      "reasons": [
+        "content length 114 below minimum 120"
+      ],
+      "record_summary": "https://www.nytimes.com/2026/02/03/business/us-india-trade-tariffs.html"
+    },
+    {
+      "index": 7,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.h"
+    },
+    {
+      "index": 8,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez."
+    },
+    {
+      "index": 9,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/world/americas/italy-marina-di-camerota-venez"
+    },
+    {
+      "index": 10,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.ht"
+    },
+    {
+      "index": 11,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/01/29/us/politics/trump-putin-ceasefire-cold.html"
+    },
+    {
+      "index": 12,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/haitians-temporary-protected-status-trump."
+    },
+    {
+      "index": 13,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/brendan-banfield-guilty-double-murder.html"
+    },
+    {
+      "index": 14,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/ostarine-olympics-doping.html"
+    },
+    {
+      "index": 15,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/nyregion/epstein-victims-names-doj-website-he"
+    },
+    {
+      "index": 16,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/theater/woodie-king-jr-dead.html"
+    },
+    {
+      "index": 17,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/01/us/trump-epstein-files.html"
+    },
+    {
+      "index": 18,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/climate/antarctica-thwaites-glacier-drilling."
+    },
+    {
+      "index": 19,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/government-shutdown-house-deal.ht"
+    },
+    {
+      "index": 20,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/01/26/us/politics/ice-border-patrol-trust.html"
+    },
+    {
+      "index": 21,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/business/trump-critical-minerals-stockpile.ht"
+    },
+    {
+      "index": 22,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/world/europe/epstein-norway-britain-princess-"
+    },
+    {
+      "index": 23,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/01/24/nyregion/nyc-mayors-labor-strikes.html"
+    },
+    {
+      "index": 24,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/01/31/us/protesters-rally-solidarity-minneapolis.ht"
+    },
+    {
+      "index": 25,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/us/politics/immigration-body-cameras-noem.htm"
+    },
+    {
+      "index": 26,
+      "valid": true,
+      "reasons": [],
+      "record_summary": "https://www.nytimes.com/2026/02/02/business/waymo-funding-growth.html"
+    }
+  ],
+  "invalid_records": [
+    {
+      "index": 6,
+      "valid": false,
+      "reasons": [
+        "content length 114 below minimum 120"
+      ],
+      "record_summary": "https://www.nytimes.com/2026/02/03/business/us-india-trade-tariffs.html"
+    }
+  ]
+}

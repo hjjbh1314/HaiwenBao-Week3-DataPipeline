@@ -1,0 +1,113 @@
+{
+  "total": 6,
+  "valid_count": 0,
+  "invalid_count": 6,
+  "results": [
+    {
+      "index": 0,
+      "valid": false,
+      "reasons": [
+        "content length 87 below minimum 120"
+      ],
+      "record_summary": "https://example.com/valid-article"
+    },
+    {
+      "index": 1,
+      "valid": false,
+      "reasons": [
+        "missing required field: 'title'",
+        "content length 66 below minimum 120"
+      ],
+      "record_summary": "https://example.com/missing-title"
+    },
+    {
+      "index": 2,
+      "valid": false,
+      "reasons": [
+        "url must use scheme http or https, got: (none)",
+        "url has no host (netloc)",
+        "content length 9 below minimum 120"
+      ],
+      "record_summary": "not-a-valid-url"
+    },
+    {
+      "index": 3,
+      "valid": false,
+      "reasons": [
+        "required field 'content' is empty",
+        "content length 0 below minimum 120"
+      ],
+      "record_summary": "https://example.com/empty-content"
+    },
+    {
+      "index": 4,
+      "valid": false,
+      "reasons": [
+        "content length 53 below minimum 120"
+      ],
+      "record_summary": "https://example.com/valid-article"
+    },
+    {
+      "index": 5,
+      "valid": false,
+      "reasons": [
+        "record is not a valid object (expected dict)"
+      ],
+      "record_summary": "this is not even an object"
+    }
+  ],
+  "invalid_records": [
+    {
+      "index": 0,
+      "valid": false,
+      "reasons": [
+        "content length 87 below minimum 120"
+      ],
+      "record_summary": "https://example.com/valid-article"
+    },
+    {
+      "index": 1,
+      "valid": false,
+      "reasons": [
+        "missing required field: 'title'",
+        "content length 66 below minimum 120"
+      ],
+      "record_summary": "https://example.com/missing-title"
+    },
+    {
+      "index": 2,
+      "valid": false,
+      "reasons": [
+        "url must use scheme http or https, got: (none)",
+        "url has no host (netloc)",
+        "content length 9 below minimum 120"
+      ],
+      "record_summary": "not-a-valid-url"
+    },
+    {
+      "index": 3,
+      "valid": false,
+      "reasons": [
+        "required field 'content' is empty",
+        "content length 0 below minimum 120"
+      ],
+      "record_summary": "https://example.com/empty-content"
+    },
+    {
+      "index": 4,
+      "valid": false,
+      "reasons": [
+        "content length 53 below minimum 120"
+      ],
+      "record_summary": "https://example.com/valid-article"
+    },
+    {
+      "index": 5,
+      "valid": false,
+      "reasons": [
+        "record is not a valid object (expected dict)"
+      ],
+      "record_summary": "this is not even an object"
+    }
+  ]
+}
